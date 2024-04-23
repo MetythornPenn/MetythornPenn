@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **TS, NextJS, , React Native**
 
-- 📝 I regularly write articles on [sigmoidx.com](https://www.sigmoidx.com)
+- 📝 I regularly active on ((https://www.linkedin.com/in/metythorn/))
 
 - 💬 Ask me about **Python, JS/TS, FastAPI, TF/Pytorch**
 

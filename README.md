@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **Metythorn@gmail.com**
 
-- ⚡ Fun fact **10X Introvert**
 
 
 

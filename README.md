@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **TS, NextJS, , React Native**
 
-- 📝 I regularly active on ([linkedin](https://www.linkedin.com/in/metythorn/))
+- 📝 I regularly active on [linkedin](https://www.linkedin.com/in/metythorn/)
 
 - 💬 Ask me about **Python, JS/TS, FastAPI, TF/Pytorch**
 

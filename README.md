@@ -5,7 +5,7 @@
 </div>
 
 
-- 🌱 I’m currently learning **TS, NestJS, NextJS, , React Native**
+- 🌱 I’m currently learning **TS, NextJS, , React Native**
 
 - 📝 I regularly write articles on [sigmoidx.com](https://www.sigmoidx.com)
 

@@ -5,7 +5,7 @@
 </div>
 
 
-- 🌱 I’m currently learning **TS, NextJS, , React Native**
+- 🌱 I’m currently learning **TS
 
 - 📝 I regularly active on [linkedin](https://www.linkedin.com/in/metythorn/)
 

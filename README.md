@@ -5,15 +5,15 @@
 </div>
 
 
-- 🌱 I’m currently learning **TypeScript** & **Golang**
+- ✨ I’m currently learning **TypeScript** & **Golang**
 
 - 🔥 I'm working and researching on projects : KhmerOCR, KhmerTTS, KhmerASR, KhmerLLM
 
-- 📝 I regularly active on [linkedin](https://www.linkedin.com/in/metythorn/)
+- ❇️  I regularly active on [linkedin](https://www.linkedin.com/in/metythorn/)
 
-- 💬 My Tech Stack **Python, JS/TS, FastAPI, TF/Pytorch, React, React Native**
+- 🎆 My Tech Stack **Python, JS/TS, FastAPI, TF/Pytorch, React, React Native**
 
-- 📫 How to reach me **Metythorn@gmail.com**
+- 📝 How to reach me **Metythorn@gmail.com**
 
 
 

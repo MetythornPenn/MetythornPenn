@@ -5,7 +5,7 @@
 </div>
 
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **TypeScript** & **Golang**
 
 - 📝 I regularly active on [linkedin](https://www.linkedin.com/in/metythorn/)
 

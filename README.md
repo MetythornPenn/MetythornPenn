@@ -15,7 +15,7 @@
 
 - 📝 How to reach me **Metythorn@gmail.com**
 
-- ❇️ my blog **[metythorn.com](https://metythorn.com)**
+- ❇️ My blog **[konai.dev](https://konai.dev/)**
 
 
 

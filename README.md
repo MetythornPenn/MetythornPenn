@@ -15,6 +15,8 @@
 
 - 📝 How to reach me **Metythorn@gmail.com**
 
+- ❇️ my blog **[kon-ai](https://kon-ai.netlify.app/)**
+
 
 
 

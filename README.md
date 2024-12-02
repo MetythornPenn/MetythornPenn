@@ -5,7 +5,7 @@
 </div>
 
 
-- ✨ I’m currently learning **C++** & **Golang**
+- ✨ I’m currently learning **C++**
 
 - 🔥 I'm working and researching on projects : KhmerOCR, KhmerLLM
 

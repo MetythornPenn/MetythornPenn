@@ -19,6 +19,8 @@
 - Tools I've built: 
   + **[pykhmernlp](https://metythornpenn.github.io/pykhmernlp/)**
   + **[autocrop_kh](https://github.com/MetythornPenn/autocrop_kh)**
+  + **[ocr_toolkits](https://github.com/MetythornPenn/ocr_toolkits)**
+  + **[sdab](https://github.com/MetythornPenn/sdab)**
 
 
 

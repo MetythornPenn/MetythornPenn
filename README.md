@@ -15,7 +15,11 @@
 
 - 📝 How to reach me **Metythorn@gmail.com**
 
-- ❇️ My blog **[konai.dev](https://konai.dev/)**
+- ❇️ My blog **[metythorn.com](https://metythorn.com/)**
+- Tools I've built: 
+  + **[konai.dev](https://konai.dev/)**
+  + **[pykhmernlp](https://metythornpenn.github.io/pykhmernlp/)**
+
 
 
 

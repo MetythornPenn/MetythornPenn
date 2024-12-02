@@ -17,7 +17,6 @@
 
 - ❇️ My blog **[metythorn.com](https://metythorn.com/)**
 - Tools I've built: 
-  + **[konai.dev](https://konai.dev/)**
   + **[pykhmernlp](https://metythornpenn.github.io/pykhmernlp/)**
 
 

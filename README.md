@@ -18,7 +18,7 @@
 - ❇️ My blog **[metythorn.com](https://metythorn.com/)**
 - 🔥 Tools I've built: 
   + **[pykhmernlp](https://metythornpenn.github.io/pykhmernlp/)**
-  + **[autocrop_kh](https://github.com/MetythornPenn/autocrop_kh)**
+  + **[autocrop_kh](https://github.com/MetythornPenn/autocrop_kh)** | [demo](https://huggingface.co/spaces/metythorn/autocrop-kh)
   + **[ocr_toolkits](https://github.com/MetythornPenn/ocr_toolkits)**
   + **[sdab](https://github.com/MetythornPenn/sdab)**
 

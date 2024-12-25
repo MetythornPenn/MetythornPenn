@@ -11,7 +11,7 @@
 
 - ❇️  I regularly active on [linkedin](https://www.linkedin.com/in/metythorn/)
 
-- 🎆 My Tech Stack **Python, JS/TS, FastAPI, Elysia, TF/Pytorch, React, React Native**
+- 🎆 My Tech Stack **Python, JS/TS, C++, FastAPI, Pytorch, React, React Native**
 
 - 📝 How to reach me **Metythorn@gmail.com**
 

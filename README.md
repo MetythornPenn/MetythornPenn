@@ -12,11 +12,11 @@
 - ❇️  I regularly active on [linkedin](https://www.linkedin.com/in/metythorn/)
 
 - 🎆 My Tech Stack :
-    Programming Language: Python, JS/TS, C++
-    AI **Pytorch, Triton Inference Server**
-    Backend: **FastAPI, NestJS**
-    Frontend: **NextJS, Tailwind**
-    Mobile: **React Native, Nativewind**
+    + Programming Language: Python, JS/TS, C++
+    + AI **Pytorch, Triton Inference Server**
+    + Backend: **FastAPI, NestJS**
+    + Frontend: **NextJS, Tailwind**
+    + Mobile: **React Native, Nativewind**
 
 - 📝 How to reach me **Metythorn@gmail.com**
 

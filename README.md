@@ -14,7 +14,7 @@
 - 🎆 My Tech Stack :
     + Programming Language: **Python, JS/TS, C++**
     + AI: **Pytorch, Triton Inference Server**
-    + Backend: **FastAPI, Litestar, NestJS**
+    + Backend: **FastAPI, NestJS**
     + Frontend: **NextJS, Tailwind**
     + Mobile: **React Native, Nativewind**
 

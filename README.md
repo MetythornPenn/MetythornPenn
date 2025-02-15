@@ -17,7 +17,7 @@
     + Backend: **FastAPI, NestJS**
     + Frontend: **NextJS, Tailwind**
     + Mobile: **React Native, Nativewind**
-    + DevOps: **Docker, Docker swarm**
+    + DevOps: **Docker,Docker Compose, Docker swarm**
 
 - 📝 How to reach me **Metythorn@gmail.com**
 

@@ -7,7 +7,7 @@
 
 - ✨ I’m currently learning **C++**
 
-- 🔥 I'm working and researching on projects : KhmerOCR, KhmerLLM
+- 🔥 I'm working and researching on projects : ocr,tts,asr,face
 
 - ❇️  I regularly active on [linkedin](https://www.linkedin.com/in/metythorn/)
 

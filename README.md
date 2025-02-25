@@ -12,7 +12,7 @@
 - ❇️  I regularly active on [linkedin](https://www.linkedin.com/in/metythorn/)
 
 - 🎆 My Tech Stack :
-    + Programming Language: **Python, Typescript, C++**
+    + Programming Language: **Python, Javascript Typescript, C++**
     + AI: **Pytorch, Triton Inference Server**
     + Backend: **FastAPI, NestJS**
     + Frontend: **NextJS, Tailwind**

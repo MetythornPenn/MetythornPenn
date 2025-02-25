@@ -26,6 +26,9 @@
   + **[pykhmernlp](https://metythornpenn.github.io/pykhmernlp/)**
   + **[autocrop_kh](https://github.com/MetythornPenn/autocrop_kh)** | [demo](https://huggingface.co/spaces/metythorn/autocrop-kh)
   + **[ocr_toolkits](https://github.com/MetythornPenn/ocr_toolkits)**
+  + **[face_toolkits](https://github.com/MetythornPenn/face_toolkits)**
+  + **[tts_toolkits](https://github.com/MetythornPenn/tts_toolkits)**
+  + **[asr_toolkits](https://github.com/MetythornPenn/asr_toolkits)**
   + **[sdab](https://github.com/MetythornPenn/sdab)**
 
 

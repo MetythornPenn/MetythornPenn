@@ -7,7 +7,7 @@
 
 - ✨ I’m currently learning **C++**
 
-- 🔥 I'm working and researching on projects : ocr, tts, asr, face
+- 🔥 I'm working and researching on projects : ocr, tts, asr, face, llm
 
 - ❇️  I regularly active on [linkedin](https://www.linkedin.com/in/metythorn/)
 

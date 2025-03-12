@@ -13,8 +13,8 @@
 
 - 🎆 My Tech Stack :
     + Programming Language: **Python, Javascript Typescript, C++**
-    + AI: **Pytorch, Triton Inference Server**
-    + Backend: **FastAPI, Postgresql, SQLModel, uv**
+    + AI: **Pytorch**
+    + Backend: **FastAPI, Postgres, SQLModel, uv**
     + Frontend: **NextJS, Tailwind**
     + Mobile: **React Native, Nativewind**
     + DevOps: **Docker, Docker Compose, Docker swarm**

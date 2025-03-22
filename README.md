@@ -23,14 +23,14 @@
 
 - ❇️ My blog **[metythorn.com](https://metythorn.com/)**
 - 🔥 Tools I've built: 
-  + **[pykhmernlp](https://metythornpenn.github.io/pykhmernlp/)**
+  + **[pykhmernlp](https://metythornpenn.github.io/pykhmernlp/)** : Collects of khmer tools to work with khmer language.
   + **[vitabooth](https://vitabooth.netlify.app/)** : A cute photobooth web for my girl 💗
-  + **[autocrop_kh](https://github.com/MetythornPenn/autocrop_kh)** | [demo](https://huggingface.co/spaces/metythorn/autocrop-kh)
-  + **[ocr_toolkits](https://github.com/MetythornPenn/ocr_toolkits)**
-  + **[face_toolkits](https://github.com/MetythornPenn/face_toolkits)**
-  + **[tts_toolkits](https://github.com/MetythornPenn/tts_toolkits)**
-  + **[asr_toolkits](https://github.com/MetythornPenn/asr_toolkits)**
-  + **[sdab](https://github.com/MetythornPenn/sdab)**
+  + **[autocrop_kh](https://github.com/MetythornPenn/autocrop_kh)** | [demo](https://huggingface.co/spaces/metythorn/autocrop-kh) : A simple model to autocrop document from background.
+  + **[ocr_toolkits](https://github.com/MetythornPenn/ocr_toolkits)** : A collection funcs to work with Khmer OCR.
+  + **[face_toolkits](https://github.com/MetythornPenn/face_toolkits)** : A collection funcs to work with Khmer OCR.
+  + **[tts_toolkits](https://github.com/MetythornPenn/tts_toolkits)** : A collection funcs to work with Khmer TTS.
+  + **[asr_toolkits](https://github.com/MetythornPenn/asr_toolkits)** : A collection funcs to work with Khmer ASR.
+  + **[sdab](https://github.com/MetythornPenn/sdab)** : A small model for Khmer Speech to Text training with a small dataset.
 
 
 

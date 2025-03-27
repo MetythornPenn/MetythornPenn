@@ -12,7 +12,7 @@
 - 🎆 My Tech Stack :
     + Programming Language: **Python, Javascript Typescript, C++**
     + AI: **Pytorch**
-    + Backend: **FastAPI, Postgres, SQLModel, uv**
+    + Backend: **FastAPI, Postgres, SQLModel, UV**
     + Frontend: **NextJS, Tailwind**
     + Mobile: **React Native, Nativewind**
     + DevOps: **Docker, Docker Compose, Docker swarm**

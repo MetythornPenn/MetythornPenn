@@ -20,6 +20,7 @@
   + **[ai-stack](https://github.com/MetythornPenn/ai-stack)** : Boilerplate code for AI development.
   + **[api-stack](https://github.com/MetythornPenn/api-stack)** : Boilerplate code for API development.
   + **[lib-stack](https://github.com/MetythornPenn/lib-stack)** : Boilerplate code for python library development.
+  + **[https://github.com/MetythornPenn/doc-stack]** : Boilerplate code for documentation the project. 
   + **[pykhmernlp](https://metythornpenn.github.io/pykhmernlp/)** : Collects of khmer tools to work with khmer language.
   + **[autocrop_kh](https://github.com/MetythornPenn/autocrop_kh)** | [demo](https://huggingface.co/spaces/metythorn/autocrop-kh) : A simple model to autocrop document from background.
   + **[ocr_toolkits](https://github.com/MetythornPenn/ocr_toolkits)** : A collection funcs to work with Khmer OCR.

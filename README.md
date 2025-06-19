@@ -18,24 +18,6 @@
 - 📝 How to reach me **Metythorn@gmail.com**
 
 - ❇️ My blog **[metythorn.com](https://metythorn.com/)**
-- 🔥 Tools I've built:
-  + **[konai.dev](https://konai.dev/): Research Area for Khmer AI**
-  + **[vitabooth](https://vitabooth.netlify.app/)** : A cute photobooth web for my girl 💗
-  + **[ai-stack](https://github.com/MetythornPenn/ai-stack)** : Boilerplate code for AI development.
-  + **[api-stack](https://github.com/MetythornPenn/api-stack)** : Boilerplate code for API development.
-  + **[lib-stack](https://github.com/MetythornPenn/lib-stack)** : Boilerplate code for python library development.
-  + **[doc-stack](https://github.com/MetythornPenn/doc-stack)** : Boilerplate code for documentation the project. 
-  + **[pykhmernlp](https://metythornpenn.github.io/pykhmernlp/)** : Collects of khmer tools to work with khmer language.
-  + **[autocrop_kh](https://github.com/MetythornPenn/autocrop_kh)** | [demo](https://huggingface.co/spaces/metythorn/autocrop-kh) : A simple model to autocrop document from background.
-  + **[ocr_toolkits](https://github.com/MetythornPenn/ocr_toolkits)** : A collection funcs to work with Khmer OCR.
-  + **[face_toolkits](https://github.com/MetythornPenn/face_toolkits)** : A collection funcs to work with Khmer OCR.
-  + **[tts_toolkits](https://github.com/MetythornPenn/tts_toolkits)** : A collection funcs to work with Khmer TTS.
-  + **[asr_toolkits](https://github.com/MetythornPenn/asr_toolkits)** : A collection funcs to work with Khmer ASR.
-  + **[sdab](https://github.com/MetythornPenn/sdab)** : A small model for Khmer Speech to Text training with a small dataset.
-
-
-
-
 
 <h2 align="left"></h2>
 

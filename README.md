@@ -8,12 +8,12 @@
 
 
 - 🎆 My Tech Stack :
-    + Programming Language: **Python, Javascript Typescript, C++**
+    + Programming Language: **Python, Javascript Typescript**
     + AI: **Pytorch**
-    + Backend: **FastAPI, Postgres, SQLModel, UV**
+    + Backend: **FastAPI**
     + Frontend: **NextJS, Tailwind**
     + Mobile: **React Native, Nativewind**
-    + DevOps: **Docker, Docker Compose, Docker swarm**
+    + DevOps: **Docker, k8s**
 
 - 📝 How to reach me **Metythorn@gmail.com**
 

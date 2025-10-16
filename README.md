@@ -8,11 +8,11 @@
 
 
 - 🎆 My Tech Stack :
-    + Programming Language: **Python, Javascript Typescript**
-    + AI: **Pytorch**
+    + Programming Language: **Python, Typescript**
+    + Deap Learning: **Pytorch**
     + Backend: **FastAPI**
-    + Frontend: **NextJS, Tailwind**
-    + Mobile: **React Native, Nativewind**
+    + Frontend: **ReactJS**
+    + Mobile: **React Native**
     + DevOps: **Docker, k8s**
 
 - 📝 How to reach me **Metythorn@gmail.com**

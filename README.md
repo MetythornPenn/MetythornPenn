@@ -6,7 +6,7 @@
 
 </div>
 
-- ❄️ I interested in how model can understand speech, vison and text.
+- ❄️ I'm researching in how model can understand speech, vison and text.
 - 🎆 My Tech Stack :
     + Programming Language: **Python, Typescript, C/C++**
     + Deap Learning: **Pytorch**

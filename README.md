@@ -6,7 +6,7 @@
 
 </div>
 
-- ❄️ I love in large scale learning algorithm.
+- ❄️ I love building large scale learning algorithm.
 - 🎆 My Tech Stack :
     + Programming Language: **Python, Typescript, C/C++**
     + Deap Learning: **Pytorch**

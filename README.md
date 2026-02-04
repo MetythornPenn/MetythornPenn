@@ -6,7 +6,7 @@
 
 </div>
 
-- ❄️ I wonder how a model can understand speech, vision, and text.
+- ❄️ I love in large scale learning algorithm.
 - 🎆 My Tech Stack :
     + Programming Language: **Python, Typescript, C/C++**
     + Deap Learning: **Pytorch**

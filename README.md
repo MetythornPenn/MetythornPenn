@@ -8,16 +8,12 @@
 
 - ❄️ I love building large scale learning algorithm.
 - 🎆 My Tech Stack :
-    + Programming Language: **Python, Typescript, C/C++**
-    + Deap Learning: **Pytorch**
-    + Backend: **FastAPI**
-    + Frontend: **ReactJS**
-    + Mobile: **React Native**
-    + DevOps: **Docker, k8s**
+    + Programming Language: **Python**
+    + ML: **Numpy, Pytorch**
+
 
 - 📝 How to reach me **Metythorn@gmail.com**
 
-- ❇️ My blog **[metythorn.com](https://metythorn.com/)**
 
 <h2 align="left"></h2>
 
